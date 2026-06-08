@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://mcenahle.github.io/sun-ada/style.css">
+
 # Sun ADA
 
 ## 项目背景
