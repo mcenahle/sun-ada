@@ -8,6 +8,6 @@
 - [ ] 完成调研
 - [ ] 完成策划案
 
-[查看目前的项目信息 →](/project.html)
+[查看目前的项目信息 →](/sun-ada/project.html)
 
 > Expected archive date: 2026-06-27
