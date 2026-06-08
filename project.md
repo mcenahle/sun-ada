@@ -1,15 +1,5 @@
-<link rel="stylesheet" href="https://mcenahle.github.io/sun-ada/style.css">
+## 主题名：_____
 
-# Sun ADA
-
-## 项目背景
-
-被老师拉来参加大广赛。目前暂定和男生（潘梓辰、葛伊洋、葛琛昊、万里航、李博贤）一组。
-
-## 项目进度
-
-- [x] 创建仓库
-- [ ] 完成调研
-- [ ] 完成策划案
+## 什么都是未知。
 
 > Expected archive date: 2026-06-27
